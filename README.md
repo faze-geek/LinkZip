@@ -1,6 +1,5 @@
 # LinkZip
-A URL Shortener Application build with React JS, Flask and Firebase. \
-Checkout Video Tutorial - https://drive.google.com/file/d/1827iDkJSYXS-Ob5LtUHGCruUQo7e-r8j/view?usp=drive_link 
+A URL Shortener Application build with React JS, Flask and Firebase. 
 
 The project is composed a client (linkzip) and a server (linkzip-server).
 
